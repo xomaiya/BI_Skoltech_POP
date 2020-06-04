@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0673
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6217
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3956
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 20.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.3082
+HEADER 10  -Pocket volume (convex hull)       : 5.6355
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   1171   CG ARG    70      22.390  37.340  25.450  0.00  0.00           C 0
+ATOM   1095   CB ASP    66      22.970  38.650  30.100  0.00  0.00           C 0
+ATOM   1102    O ASP    66      24.890  37.790  27.540  0.00  0.00           O 0
+ATOM   1254  CG1 ILE    75      20.960  43.580  26.530  0.00  0.00           C 0
+ATOM   1219    O ASN    73      25.410  42.280  25.000  0.64  4.29           O 0
+ATOM   1101    C ASP    66      24.950  38.180  28.720  0.00  0.00           C 0
+ATOM   1279  CE2 PHE    76      22.070  43.020  30.030  0.00  0.00           C 0
+ATOM   1187    O ARG    70      25.380  37.370  22.060  0.56  7.50           O 0
+ATOM   1168   CB ARG    70      23.640  37.690  24.530  0.00  0.00           C 0
+ATOM   1210   CB ASN    73      25.870  42.120  21.960  0.00  0.00           C 0
+ATOM   1215  ND2 ASN    73      24.280  43.330  20.350  0.76  8.75           N 0
+ATOM   1250  CG2 ILE    75      21.740  44.230  24.240  0.00  0.00           C 0
+ATOM   1257   CD ILE    75      19.740  42.650  26.380  0.00  0.00           C 0
+ATOM   1177   NE ARG    70      20.550  35.770  25.840  0.78  7.66           N 0
+ATOM   1100  OD2 ASP    66      20.730  38.680  30.970  0.59  7.50           O 0
+TER
+END

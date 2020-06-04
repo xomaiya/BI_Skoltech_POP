@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0134
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8257
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6688
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 52.2000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.4039
+HEADER 10  -Pocket volume (convex hull)       : 4.0490
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   3829    O LEU   231      49.760  36.730  40.550  0.00  0.00           O 0
+ATOM   3830    N PRO   232      48.580  34.880  40.560  0.00  0.00           N 0
+ATOM   3753   CZ PHE   227      51.690  31.250  43.490  0.00  0.00           C 0
+ATOM   3828    C LEU   231      49.050  35.920  41.190  0.00  0.00           C 0
+ATOM   3839   CG PRO   232      48.440  32.520  40.060  0.00  0.00           C 0
+ATOM   3834   CA PRO   232      48.870  34.710  39.170  0.00  0.00           C 0
+ATOM   3888  OG1 THR   235      52.140  37.440  39.120  0.00  0.00           O 0
+ATOM   3886   CB THR   235      51.780  37.360  37.750  0.00  0.00           C 0
+ATOM   3890  CG2 THR   235      53.050  37.220  36.850  0.00  0.00           C 0
+ATOM   3903   CG LEU   236      49.190  35.040  34.100  0.00  0.00           C 0
+ATOM   3843    O PRO   232      48.590  36.090  37.240  0.00  0.00           O 0
+ATOM   3836   CB PRO   232      48.360  33.330  38.730  0.00  0.00           C 0
+ATOM   3905  CD1 LEU   236      48.220  33.850  34.230  0.00  0.00           C 0
+ATOM   3909  CD2 LEU   236      50.330  34.760  33.160  0.00  0.00           C 0
+ATOM   3815   CB LEU   231      49.920  35.610  43.510  0.00  0.00           C 0
+ATOM   3751  CE1 PHE   227      52.050  32.090  44.510  0.00  0.00           C 0
+ATOM   3820  CD1 LEU   231      51.440  37.520  44.160  0.00  0.00           C 0
+TER
+END

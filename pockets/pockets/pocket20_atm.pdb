@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1330
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1117
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6210
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 47.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 359.8768
+HEADER 10  -Pocket volume (convex hull)       : 13.8574
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   2800   CB MET   171      46.120  52.480  37.300  0.00  0.00           C 0
+ATOM   2798   CA MET   171      47.720  52.490  37.640  0.00  0.00           C 0
+ATOM   2365   CE MET   142      43.640  57.520  39.670  0.00  0.00           C 0
+ATOM   2803   CG MET   171      45.330  52.580  38.610  0.00  0.00           C 0
+ATOM   2790  CG2 THR   170      48.970  55.610  34.350  0.00  0.00           C 0
+ATOM   2745    O LYS   167      46.080  53.800  33.930  0.62  3.21           O 0
+ATOM   2788  OG1 THR   170      50.840  55.560  35.750  0.00  0.00           O 0
+ATOM   2796    N MET   171      48.370  52.830  36.430  0.00  0.00           N 0
+ATOM   2731   CG LYS   167      43.450  55.490  32.800  0.00  0.00           C 0
+ATOM   2726   CA LYS   167      45.790  54.910  31.760  0.00  0.00           C 0
+ATOM   2728   CB LYS   167      44.350  55.490  31.540  0.00  0.00           C 0
+ATOM   2361   CG MET   142      41.900  56.450  37.810  0.00  0.00           C 0
+ATOM   2734   CD LYS   167      42.290  56.620  32.560  0.00  0.00           C 0
+ATOM   2854  CG2 ILE   174      49.500  52.750  41.290  0.00  0.00           C 0
+ATOM   2795    O THR   170      50.430  52.890  37.340  0.33  3.21           O 0
+ATOM   2740   NZ LYS   167      40.280  57.790  33.180  0.71  9.84           N 0
+ATOM   2737   CE LYS   167      41.090  56.640  33.560  0.00  0.00           C 0
+TER
+END

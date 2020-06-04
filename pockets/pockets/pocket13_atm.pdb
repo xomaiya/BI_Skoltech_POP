@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0388
+HEADER 1  - Drug Score                        : 0.0061
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9663
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6962
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 62.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 354.6344
+HEADER 10  -Pocket volume (convex hull)       : 14.1033
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.8571
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM   2848    N ILE   174      51.720  50.890  40.410  0.00  0.00           N 0
+ATOM   2852   CB ILE   174      50.770  52.490  42.040  0.00  0.00           C 0
+ATOM   2850   CA ILE   174      51.380  51.070  41.860  0.00  0.00           C 0
+ATOM   2842  CD2 TYR   173      55.240  51.900  38.370  0.00  0.00           C 0
+ATOM   2795    O THR   170      50.430  52.890  37.340  0.33  3.21           O 0
+ATOM   2861   CD ILE   174      50.760  54.170  44.010  0.00  0.00           C 0
+ATOM   2844  CE2 TYR   173      56.540  52.190  38.810  0.00  0.00           C 0
+ATOM   2788  OG1 THR   170      50.840  55.560  35.750  0.00  0.00           O 0
+ATOM   2858  CG1 ILE   174      50.640  52.720  43.560  0.00  0.00           C 0
+ATOM   2854  CG2 ILE   174      49.500  52.750  41.290  0.00  0.00           C 0
+ATOM   2847    O TYR   173      52.860  49.060  40.780  0.84  1.07           O 0
+ATOM   2839   CZ TYR   173      57.270  51.130  39.320  0.00  0.00           C 0
+ATOM   2906  CG2 VAL   177      54.780  47.480  43.080  0.00  0.00           C 0
+ATOM   2837  CE1 TYR   173      56.840  49.780  39.240  0.00  0.00           C 0
+ATOM   2840   OH TYR   173      58.610  51.400  39.780  0.83  7.50           O 0
+ATOM   2900   CB VAL   177      54.040  47.760  44.350  0.00  0.00           C 0
+TER
+END

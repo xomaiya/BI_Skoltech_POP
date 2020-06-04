@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0400
+HEADER 1  - Drug Score                        : 0.0958
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0069
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7034
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 73.8333
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 424.1265
+HEADER 10  -Pocket volume (convex hull)       : 19.8759
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 16.4545
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.8148
+ATOM    157    N PHE    10      33.020  30.160  27.810  0.00  0.00           N 0
+ATOM     86  CE1 PHE     6      38.570  27.070  25.610  0.00  0.00           C 0
+ATOM    159   CA PHE    10      33.710  29.780  29.040  0.00  0.00           C 0
+ATOM    146   CB GLU     9      31.880  29.000  25.010  0.00  0.00           C 0
+ATOM    155    C GLU     9      31.710  29.940  27.460  0.00  0.00           C 0
+ATOM    156    O GLU     9      30.840  29.560  28.250  0.61  4.29           O 0
+ATOM     84  CD1 PHE     6      38.250  27.980  24.590  0.00  0.00           C 0
+ATOM    154  OE2 GLU     9      32.920  28.040  22.450  0.64  4.29           O 0
+ATOM    229    O ILE    13      29.300  28.070  35.330  0.61  1.07           O 0
+ATOM    240  CG2 VAL    14      33.780  29.390  34.210  0.00  0.00           C 0
+ATOM    232   CA VAL    14      31.520  29.630  35.330  0.00  0.00           C 0
+ATOM    299   CD ILE    17      28.360  25.140  37.010  0.00  0.00           C 0
+ATOM    230    N VAL    14      30.820  29.180  34.190  0.00  0.00           N 0
+ATOM     95    O PHE     6      35.080  30.810  25.930  0.68  1.07           O 0
+ATOM    161   CB PHE    10      35.180  30.280  28.980  0.00  0.00           C 0
+ATOM     88   CZ PHE     6      38.860  27.530  26.910  0.00  0.00           C 0
+ATOM    165  CD1 PHE    10      36.200  28.560  30.530  0.00  0.00           C 0
+ATOM    215   CB ILE    13      29.500  27.260  32.110  0.00  0.00           C 0
+ATOM    217  CG2 ILE    13      29.130  25.890  32.710  0.00  0.00           C 0
+ATOM    176    O PHE    10      32.530  29.740  31.150  0.75  3.21           O 0
+ATOM    167  CE1 PHE    10      36.910  28.190  31.650  0.00  0.00           C 0
+ATOM    228    C ILE    13      29.760  28.470  34.260  0.00  0.00           C 0
+ATOM    290   CB ILE    17      28.590  27.080  38.690  0.00  0.00           C 0
+ATOM    221  CG1 ILE    13      28.860  27.350  30.730  0.00  0.00           C 0
+ATOM    245    O VAL    14      30.520  30.300  37.410  0.63  1.07           O 0
+ATOM    292  CG2 ILE    17      28.920  26.190  39.950  0.00  0.00           C 0
+TER
+END

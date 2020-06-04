@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0107
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7938
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5578
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 36.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.0868
+HEADER 10  -Pocket volume (convex hull)       : 3.8947
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8889
+ATOM   2993   CG PRO   183      48.230  44.860  50.310  0.00  0.00           C 0
+ATOM   2972   CG LEU   182      52.800  47.120  50.970  0.00  0.00           C 0
+ATOM   1607   OH TYR    97      46.900  48.720  50.100  0.62  7.50           O 0
+ATOM   3044  OG1 THR   186      52.280  44.180  54.890  0.79  7.50           O 0
+ATOM   2985   CD PRO   183      49.660  44.960  49.790  0.00  0.00           C 0
+ATOM   2988   CA PRO   183      49.530  43.320  51.600  0.00  0.00           C 0
+ATOM   1662  CG2 THR   100      47.450  42.910  54.960  0.00  0.00           C 0
+ATOM   1658   CB THR   100      46.000  42.640  54.540  0.00  0.00           C 0
+ATOM   1606   CZ TYR    97      45.720  48.210  50.710  0.00  0.00           C 0
+ATOM   1601   CG TYR    97      43.350  47.060  51.820  0.00  0.00           C 0
+ATOM   1602  CD1 TYR    97      43.950  48.210  52.380  0.00  0.00           C 0
+ATOM   1604  CE1 TYR    97      45.060  48.810  51.830  0.00  0.00           C 0
+ATOM   1614    O TYR    97      42.360  44.230  55.040  0.00  0.00           O 0
+ATOM   1678  CG2 VAL   101      43.550  46.000  57.700  0.00  0.00           C 0
+ATOM   2984    N PRO   183      50.440  44.050  50.700  0.00  0.00           N 0
+TER
+END

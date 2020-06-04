@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0943
+HEADER 1  - Drug Score                        : 0.0084
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6037
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3658
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 58.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 110.4803
+HEADER 10  -Pocket volume (convex hull)       : 2.0392
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9474
+ATOM   4510   CB LEU   274      37.640  31.700  55.460  0.00  0.00           C 0
+ATOM    788   CG MET    47      35.840  36.770  58.720  0.00  0.00           C 0
+ATOM    792   CE MET    47      37.480  34.780  60.190  0.00  0.00           C 0
+ATOM   1697  CD2 LEU   102      39.810  37.550  58.700  0.00  0.00           C 0
+ATOM   1648  CD2 LEU    99      40.480  37.130  54.270  0.00  0.00           C 0
+ATOM    844  CD2 LEU    50      37.370  38.670  53.440  0.00  0.00           C 0
+ATOM   4515  CD1 LEU   274      39.650  32.430  54.230  0.00  0.00           C 0
+ATOM   4535  CE1 TYR   275      33.480  35.670  55.140  0.00  0.00           C 0
+ATOM   3656  OG1 THR   222      42.890  32.990  55.910  0.76  3.21           O 0
+ATOM   3587  CG2 THR   218      41.480  31.390  59.430  0.00  0.00           C 0
+ATOM   4519  CD2 LEU   274      39.830  30.630  55.920  0.00  0.00           C 0
+ATOM   4467  OD1 ASN   271      37.140  35.130  50.700  0.00  0.00           O 0
+ATOM   4472    O ASN   271      34.370  32.660  53.330  0.00  0.00           O 0
+TER
+END

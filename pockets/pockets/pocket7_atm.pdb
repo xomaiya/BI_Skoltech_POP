@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0241
+HEADER 1  - Drug Score                        : 0.0103
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4677
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 46.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.6507
+HEADER 10  -Pocket volume (convex hull)       : 8.7879
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM   2772   CG GLN   169      51.160  49.920  31.440  0.00  0.00           C 0
+ATOM   4011  OG1 THR   242      53.960  44.410  31.190  0.56  7.50           O 0
+ATOM   3952    O THR   238      51.650  43.460  32.130  0.55  1.07           O 0
+ATOM   2777  NE2 GLN   169      52.670  48.650  30.030  0.00  0.00           N 0
+ATOM   2829   CA TYR   173      52.290  49.480  38.480  0.00  0.00           C 0
+ATOM   3947  CG2 THR   238      52.570  43.740  35.090  0.00  0.00           C 0
+ATOM   2835  CD1 TYR   173      55.550  49.600  38.680  0.00  0.00           C 0
+ATOM   2890  CD2 LEU   176      52.800  43.340  39.120  0.00  0.00           C 0
+ATOM   2831   CB TYR   173      53.410  50.330  37.670  0.00  0.00           C 0
+ATOM   2881   CB LEU   176      51.440  45.070  40.450  0.00  0.00           C 0
+ATOM   2822  ND2 ASN   172      50.220  46.140  36.170  0.52  3.28           N 0
+ATOM   2781    O GLN   169      50.390  50.610  34.530  0.00  0.00           O 0
+ATOM   3990   CB LEU   241      48.890  45.510  31.130  0.00  0.00           C 0
+ATOM   2847    O TYR   173      52.860  49.060  40.780  0.84  1.07           O 0
+ATOM   2906  CG2 VAL   177      54.780  47.480  43.080  0.00  0.00           C 0
+ATOM   2884   CG LEU   176      52.330  43.710  40.510  0.00  0.00           C 0
+ATOM   2955  CD1 LEU   181      54.600  42.630  43.550  0.00  0.00           C 0
+ATOM   2837  CE1 TYR   173      56.840  49.780  39.240  0.00  0.00           C 0
+TER
+END

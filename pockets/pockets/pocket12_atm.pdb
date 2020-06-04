@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0314
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0445
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6208
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 11.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 368.7895
+HEADER 10  -Pocket volume (convex hull)       : 15.7298
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   4136   CB LYS   250      49.600  36.490  23.030  0.00  0.00           C 0
+ATOM   4179   NE ARG   252      49.720  29.650  22.230  0.49  1.09           N 0
+ATOM   4148   NZ LYS   250      53.610  37.260  21.570  0.79  6.56           N 0
+ATOM   4170   CB ARG   252      49.460  30.640  25.170  0.00  0.00           C 0
+ATOM   4154    N ASP   251      47.330  34.050  21.860  0.62  2.19           N 0
+ATOM   4185  NH2 ARG   252      50.600  29.750  20.100  0.00  0.00           N 0
+ATOM   4203  CD2 LEU   253      50.060  37.950  28.090  0.00  0.00           C 0
+ATOM   4139   CG LYS   250      50.640  37.470  22.530  0.00  0.00           C 0
+ATOM   4027  CG2 THR   243      51.910  40.360  26.120  0.00  0.00           C 0
+ATOM   4161   CG ASP   251      45.360  32.480  19.890  0.00  0.00           C 0
+ATOM   4182  NH1 ARG   252      48.430  29.340  20.390  0.00  0.00           N 0
+ATOM   4163  OD2 ASP   251      45.220  31.730  18.900  0.00  0.00           O 0
+ATOM   4194   CB LEU   253      49.310  35.720  27.360  0.00  0.00           C 0
+ATOM   4190    N LEU   253      48.380  33.570  26.230  0.74  2.19           N 0
+ATOM   4142   CD LYS   250      51.220  37.120  21.110  0.00  0.00           C 0
+ATOM   4166    N ARG   252      47.820  31.970  23.800  0.59  1.09           N 0
+ATOM   4158   CB ASP   251      46.100  31.950  21.130  0.00  0.00           C 0
+ATOM   4131    O CYS   249      47.720  37.140  19.620  0.57  7.50           O 0
+ATOM   4162  OD1 ASP   251      44.790  33.640  19.920  0.62  9.64           O 0
+ATOM   4134   CA LYS   250      48.490  36.190  22.040  0.00  0.00           C 0
+TER
+END
