@@ -17,7 +17,7 @@ Support files for the CHARMM-GUI, as well as the results of its work, can be fou
 
 For binding sites searching we used fpocket [7]. 
 
-For post-processing we used mdpocket (it's command in fpocket). For statistical analysis of the results we use "description_analysis.r" script. You can find mdpocket results and "description_analysis.r" script in "pockets"-folder.
+For post-processing we used mdpocket (it's command in fpocket). For statistical analysis of the results we used "description_analysis.r" script. You can find mdpocket results and "description_analysis.r" script in "pockets"-folder.
 
 ### System requirements
 python 3.8+, R 3.5+, GROMACS 5.1, fpocket 3.1
