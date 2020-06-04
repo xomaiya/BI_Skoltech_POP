@@ -24,7 +24,10 @@ python 3.8+, R 3.5+, GROMACS 5.1, fpocket 3.1
 
 ### Results
 
+fpocket results are all of pockets of protein:
 ![fpocket result](all_pockets.png)
+
+description_analysis.r allows you to analyze the time series of changes in the volume of the pocket
 ![description_analysis.r](stat_analysis.png)
 
 ### Bibliography
