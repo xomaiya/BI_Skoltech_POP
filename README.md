@@ -22,6 +22,14 @@ For post-processing we used mdpocket (it's command in fpocket). For statistical 
 ### System requirements
 python 3.8+, R 3.5+, GROMACS 5.1, fpocket 3.1
 
+### How to reproduce
+
+#### Step 0
+In order to prepare CysTLR2 structure we need to model wild type gene sequence with (file `modelling/CLTR2.fasta`) with known cristallographic structure of 6rz8 (file `modelling/6rz8.pdb`). 
+1. Firstly, we have to cut auxilliary parts from 6rz8 and unnecessary parts from CLTR2 (results can be seen in files `modelling/6rz8_cutted.pdb` and `modelling/CLTR2_cutted.ali` respectivly).
+2. Now we have to build an alignment that would be used for modelling in future. It can be done with script `modelling/alignment.py`. Run from the `modelling` dirrectory: ```python alignment.py```. Output file `modelling/CLTR2_6rz8.ali` contains the necessary alignment.
+3. Now we are ready to perform the modelling procedure. It can be done by `modelling/model-single.py` script. Just run command ```python model-single.py``` from the `./modelling` dirrectory. In the output file `modelling/loopmodel.final.pdb` the resulting structure could be found.
+
 ### Results
 
 fpocket results are all of pockets of protein:
