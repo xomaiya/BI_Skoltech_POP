@@ -33,7 +33,7 @@ To prepare CysTLR2 structure, we need to model wild type gene sequence (file `mo
 
 #### Step 1
 
-Now we are ready to put `loopmodel.final.pdb` into bilipid layer and run molecular dynamic. To generate all necessary GROMACS input files we will use charmm-gui.org input generator. Choose there "Input Generator -> Membrane Builder -> Bilayer Builder", put `modelling/loopmodel.final.pdb` there and go through all configuration. As a result, you would get gromacs input files, that for our run can be found in `./gramacs` folder (all inut files except large force field and topology files, to obtain them you should go through charmm-gui by yourself). In the `gromacs/run` shell script all necessary commands to run molecular dynamics are located. Just run `./run` from `./gromacs` folder. As a result you would get a bunch of `*.trr` trajectory files (that are not included in this repo because of their large size.
+Now we are ready to put `loopmodel.final.pdb` into bilipid layer and run molecular dynamic. To generate all necessary GROMACS input files we will use charmm-gui.org input generator. Choose there "Input Generator -> Membrane Builder -> Bilayer Builder", put `modelling/loopmodel.final.pdb` there and go through all configuration. As a result, you would get gromacs input files, that for our run can be found in `./gramacs` folder (all inut files except large force field and topology files, to obtain them you should go through charmm-gui by yourself). In the `gromacs/run` shell script all necessary commands to run molecular dynamics are located. Just run `./run` from `./gromacs` folder. As a result you would get a bunch of `*.trr` trajectory files (that are not included in this repo because of their large size).
 
 #### Step 2
 
