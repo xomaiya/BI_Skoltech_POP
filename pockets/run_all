@@ -2,12 +2,12 @@
 
 mkdir results
 
-for i in ./pockets/*; do
+for i in ./fpocket_results/pockets/*; do
     name=`basename $i`
     echo $name
     mkdir ./results/$name
     cd ./results/$name
-    mdpocket --trajectory_file ../../cutted.trr --trajectory_format trr --selected_pocket ../../pockets/$name -f ../../example.pdb  
+    mdpocket --trajectory_file ../../cutted.trr --trajectory_format trr --selected_pocket ../../pockets/$name -f ../../protein.pdb  
     cd ../../
 done
 
