@@ -52,7 +52,7 @@ This would give us file descriptors for all found pockets. Our output is present
 
 #### Step 3
 
-Analize obtained pocket descriptor files with R script `pockets/description_analysis.r`.  
+Analize obtained pocket descriptor files with R script `pockets/description_analysis.r`.  This script would draw dependency of pocket volume on time.
 
 ### Results
 
