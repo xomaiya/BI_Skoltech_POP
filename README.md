@@ -38,10 +38,14 @@ Now we are ready to put `loopmodel.final.pdb` into bilipid layer and run molecul
 #### Step 2
 
 1. Find all pockets for our structure:
+
 ```fpocket -f example.pdb```
-This command would create a folder `pockets` with all found pockets (output for our case is in folder `pocket/pockets`
+
+This command would create a folder `pockets` with all found pockets (output for our case is in folder `pockets/pockets`)
 2. Perform pocket analis with mdpocket for all found pockets with shell scrip `pockets/run_all`:
+
 ```./run_all```
+
 This would give us file descriptors for all found pockets. Our output is presented in the folder `pockets/result`
 
 #### Step 3
