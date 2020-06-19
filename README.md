@@ -39,7 +39,7 @@ Now we are ready to put `loopmodel.final.pdb` into bilipid layer and run molecul
 
 1. Find all pockets for our structure:
 
-```fpocket -f example.pdb```
+```fpocket -f protein.pdb```
 
 This command would create a folder `pockets` with all found pockets (output for our case is in folder `pockets/pockets`).
 
