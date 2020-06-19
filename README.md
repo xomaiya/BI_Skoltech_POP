@@ -59,8 +59,37 @@ Analize obtained pocket descriptor files with R script `pockets/description_anal
 fpocket results are all of pockets of protein:
 ![fpocket result](all_pockets.png)
 
+Such visualization is contained in the file `pockets/fpocket_results/step7_10_PYMOL.sh` and `pockets/fpocket_results/step7_10_VMD.sh`, which can be opened using PyMol and VMD, respectively.
+
+Each of these pockets is described by a table of the form:
+
+	Score : 	0.111
+	Druggability Score : 	0.703
+	Number of Alpha Spheres : 	186
+	Total SASA : 	475.239
+	Polar SASA : 	178.163
+	Apolar SASA : 	297.077
+	Volume : 	1650.496
+	Mean local hydrophobic density : 	28.286
+	Mean alpha sphere radius :	3.925
+	Mean alp. sph. solvent access : 	0.473
+	Apolar alpha sphere proportion : 	0.452
+	Hydrophobicity score:	36.286
+	Volume score: 	 4.514
+	Polarity score:	 18
+	Charge score :	 4
+	Proportion of polar atoms: 	41.905
+	Alpha sphere density : 	10.738
+	Cent. of mass - Alpha Sphere max dist: 	26.253
+	Flexibility : 	0.000
+
+Of greatest interest are the Druggability Score and Volume. In this project, the most interesting pocket was found according to these scores.
+This information is in the file `pockets/fpocket_results/step7_10_info.txt`.
+
 description_analysis.r allows you to analyze the time series of changes in the volume of the pocket
 ![description_analysis.r](stat_analysis.png)
+
+Here is the chart for the pocket with the highest Druggability Score. As you can see from the graph, the pocket is not always open. So it is an allosteric binding site.
 
 ### Bibliography
 1. https://www.uniprot.org/uniprot/Q9NS75
